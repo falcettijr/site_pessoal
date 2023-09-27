@@ -3,22 +3,18 @@ const AboutContainer = () => {
     <section className="about-container">
       <h2>Sobre</h2>
       <p>
-        Sou pós-graduando em Desenvolvimento FullStack, apaixonado por
-        tecnologia e atualmente atuo como DesenvolvedorFront-End. Atuei
-        por diversos anos no setor financeiro, possuo mais de dez anos de
-        experiência na área que me possibilitou habilidades como resolução de
-        problemas e trabalho em equipe.
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod, dolores!
+        Repellendus eius consequuntur, voluptate deserunt perferendis mollitia
+        debitis est autem aperiam necessitatibus beatae assumenda illo rem
+        architecto quis dolor quae.
       </p>
       <p>
-        Durante quatro anos, tive a oportunidade de ser proprietário e fundador
-        de um dos maiores bares da Cidade de Vila Velha, onde desenvolvi minhas
-        habilidades de liderança e gestão.
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos veritatis
+        aperiam, odit nihil placeat, dolorum sequi reprehenderit fugiat,
+        distinctio provident impedit modi neque sapiente voluptate voluptates.
+        Maiores sint at dolores?
       </p>
-      <p>
-        Possuo inglês intermediário, compreendo, leio e escrevo bem e estou
-        realizando aulas particulares de conversação para desenvolver a fluência
-        no inglês.
-      </p>
+      <p>Possuo inglês intermediário, compreendo, leio e escrevo bem e estou realizando aulas particulares de conversação para desenvolver a fluência no inglês.</p>
     </section>
   );
 };
